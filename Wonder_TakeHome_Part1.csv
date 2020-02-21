@@ -1,0 +1,81 @@
+Analyst,Request,count_declined,Job,Wait_time__min_,Waiting_for,Total_jobs_available
+c9401f82fdedf3cd080a03bafe3447c7,594ab554c864e200288e76ef,3,writing,2,writing,9
+7e22ad15724c44543d1d4bcafd10c812,594b31f09d87570035cccafd,2,review,55,"review, editing",2
+732e4a29b2e318bce3c1e923276ddf51,594ae6994f06e20035d92335,2,review,2,"review, planning",7
+62060850630c7afe54fd59151413d237,594c151273dd9c002873cd98,2,vetting,2,"vetting, planning, editing, sourcing, writing",5
+62060850630c7afe54fd59151413d237,594c151273dd9c002873cd98,2,vetting,2,"vetting, planning, editing, sourcing, writing",4
+62060850630c7afe54fd59151413d237,594c151273dd9c002873cd98,2,vetting,1,"vetting, planning, editing, sourcing, writing",4
+62060850630c7afe54fd59151413d237,594c0645b99a200028ff12fe,2,vetting,2,"vetting, planning, editing, sourcing, writing",6
+a09c8906073b4c0b75e3100b857b982a,594b20ed3f82d10028f03c6c,2,planning,2,"review, planning, editing, sourcing, writing",7
+00360b3f177375b01b795a4be7b4686c,594c15a573dd9c002873cda1,2,sourcing,6,sourcing,5
+85c7b78e76b5232cd38014ea4cdc8f56,594bec81fd2cf400280aa95c,2,sourcing,4,sourcing,8
+608b40f66ef114c6d9f5c95021290f69,594bec81fd2cf400280aa95c,2,sourcing,28,"sourcing, writing",9
+9fa24ddce8fd9d1526d9d7451304fc74,594bec5a95e2ce005840c22a,2,sourcing,27,sourcing,12
+5238b0785b5576f5ffe665136df9244f,594b06c06cdeef002881af83,2,sourcing,6,sourcing,10
+795930bc4ed320777ad76b46da2ed66d,594a9ce6c864e200288e766b,2,source review,12,review,1
+642782c690c8d963c487300a4751e220,594af29d3f82d10028f03bb2,1,review,1,"review, vetting, editing, sourcing, writing",4
+9fcbc63ff4c8bea5cea4efad782c87cf,594ae6994f06e20035d92335,1,review,2,review,8
+9fcbc63ff4c8bea5cea4efad782c87cf,594ae6994f06e20035d92335,1,review,2,review,7
+d8e25a290ea51352bf9100a99c475f6d,59480d57e759070028da6467,1,review,2,review,7
+642782c690c8d963c487300a4751e220,594b20ef3f82d10028f03c7c,1,editing,33,"review, vetting, editing",1
+c2dcc0b178176d7e6b185df9bd1cb4f2,594b06c06cdeef002881af83,1,editing,3,editing,14
+62060850630c7afe54fd59151413d237,594c0b883b593b002812506e,1,vetting,1,"vetting, planning, editing, sourcing, writing",5
+62060850630c7afe54fd59151413d237,594c15a573dd9c002873cda1,1,vetting,1,"vetting, planning, editing, sourcing, writing",6
+62060850630c7afe54fd59151413d237,594bfcde70709600281a12b8,1,vetting,2,"vetting, planning, editing, sourcing, writing",9
+62060850630c7afe54fd59151413d237,594c0645b99a200028ff12fe,1,vetting,1,"vetting, planning, editing, sourcing, writing",7
+85c7b78e76b5232cd38014ea4cdc8f56,594bec83fd2cf400280aa965,1,writing,9,"sourcing, writing",12
+85c7b78e76b5232cd38014ea4cdc8f56,594bec83fd2cf400280aa965,1,writing,8,"sourcing, writing",14
+0c2680433387fb4cf51a3546296f8422,594bec83fd2cf400280aa965,1,writing,15,"sourcing, writing",7
+0c2680433387fb4cf51a3546296f8422,594bec83fd2cf400280aa965,1,writing,14,"sourcing, writing",7
+d9837e646a15a4fdd823531178b2d62e,594aead5ef88150028311172,1,writing,1,sourcing,13
+0e9802516f8a79dd0d45211dd4ee74af,594b20eb3f82d10028f03c5c,1,writing,1,"sourcing, writing",7
+caf77e4ba6154e998b352cc92c685f80,594b20eb3f82d10028f03c5c,1,writing,2,"planning, editing, sourcing, writing",6
+caf77e4ba6154e998b352cc92c685f80,594b20eb3f82d10028f03c5c,1,writing,1,"planning, editing, sourcing, writing",6
+642782c690c8d963c487300a4751e220,594a8fd422b3c50028e71976,1,writing,1,"vetting, editing",4
+642782c690c8d963c487300a4751e220,594a8fd422b3c50028e71976,1,writing,1,"vetting, editing, sourcing, writing",4
+c9401f82fdedf3cd080a03bafe3447c7,594a8fd422b3c50028e71976,1,writing,1,writing,5
+632a6492e9ff20cc4a442245836424e5,594ae6fb4f06e20035d92345,1,writing,1,writing,14
+d6eaa4eeb52b4d62ec78299454763870,594ae6fb4f06e20035d92345,1,writing,2,"sourcing, writing",10
+d9837e646a15a4fdd823531178b2d62e,594ab554c864e200288e76ef,1,writing,2,"sourcing, writing",7
+d9837e646a15a4fdd823531178b2d62e,594ab554c864e200288e76ef,1,writing,1,"sourcing, writing",6
+dddcdea13df8232803957a5d9c847aae,5949e376f03c130028baa724,1,writing,2,"sourcing, writing",10
+dddcdea13df8232803957a5d9c847aae,594ab554c864e200288e76ef,1,writing,2,"sourcing, writing",9
+c9401f82fdedf3cd080a03bafe3447c7,594ab554c864e200288e76ef,1,writing,1,writing,9
+c9401f82fdedf3cd080a03bafe3447c7,594ab554c864e200288e76ef,1,writing,47,writing,10
+c9401f82fdedf3cd080a03bafe3447c7,594ab554c864e200288e76ef,1,writing,46,writing,10
+a09c8906073b4c0b75e3100b857b982a,594c0b883b593b002812506e,1,planning,18,"planning, editing, sourcing, writing",12
+a09c8906073b4c0b75e3100b857b982a,594c0b883b593b002812506e,1,planning,17,"planning, editing, sourcing, writing",12
+94959cf2d0b592d0fa1e5e9cf760a1c7,594c0b883b593b002812506e,1,planning,7,planning,12
+94959cf2d0b592d0fa1e5e9cf760a1c7,594c0b883b593b002812506e,1,planning,6,planning,12
+a09c8906073b4c0b75e3100b857b982a,594b20ee3f82d10028f03c74,1,planning,2,"review, planning, editing, sourcing, writing",8
+a09c8906073b4c0b75e3100b857b982a,594b20ee3f82d10028f03c74,1,planning,1,"review, planning, editing, sourcing, writing",7
+a09c8906073b4c0b75e3100b857b982a,594b20eb3f82d10028f03c5c,1,planning,2,"review, planning, editing, sourcing, writing",11
+a09c8906073b4c0b75e3100b857b982a,594b20eb3f82d10028f03c5c,1,planning,1,"review, planning, editing, sourcing, writing",8
+f7f7591403c6c431053920223069550a,594b20ea3f82d10028f03c54,1,planning,7,planning,14
+f7f7591403c6c431053920223069550a,594b20ea3f82d10028f03c54,1,planning,6,planning,14
+00360b3f177375b01b795a4be7b4686c,594c0b883b593b002812506e,1,sourcing,107,sourcing,11
+00360b3f177375b01b795a4be7b4686c,594c0b883b593b002812506e,1,sourcing,106,sourcing,11
+8258591d197a3936de0f7ee021ab9e0e,594c0b883b593b002812506e,1,sourcing,18,sourcing,11
+8258591d197a3936de0f7ee021ab9e0e,594c0b883b593b002812506e,1,sourcing,17,sourcing,11
+dddcdea13df8232803957a5d9c847aae,594bebaa632eb100405ab4c3,1,sourcing,3,"sourcing, writing",9
+dddcdea13df8232803957a5d9c847aae,594bebaa632eb100405ab4c3,1,sourcing,2,"sourcing, writing",9
+0c2680433387fb4cf51a3546296f8422,594bebaa632eb100405ab4c3,1,sourcing,24,sourcing,9
+0c2680433387fb4cf51a3546296f8422,594bebaa632eb100405ab4c3,1,sourcing,23,sourcing,9
+98de7e62209a07eee6ec8dc984911042,594bec83fd2cf400280aa965,1,sourcing,1,sourcing,5
+c2d7982e24aadeea8921108d0eb756d8,594bec83fd2cf400280aa965,1,sourcing,33,"sourcing, writing",4
+c2d7982e24aadeea8921108d0eb756d8,594bec83fd2cf400280aa965,1,sourcing,32,"sourcing, writing",5
+95130c93e28b36bcb5ecd7e747b4d5c2,594c1abc73dd9c002873cdb8,1,sourcing,16,sourcing,5
+c2d7982e24aadeea8921108d0eb756d8,594bec81fd2cf400280aa95c,1,sourcing,4,"sourcing, writing",6
+c2d7982e24aadeea8921108d0eb756d8,594bec81fd2cf400280aa95c,1,sourcing,3,"sourcing, writing",7
+6b19235b9269df81b6da879771bf40bc,594b945bf8b866004036d9c3,1,sourcing,7,sourcing,2
+6b19235b9269df81b6da879771bf40bc,594b945bf8b866004036d9c3,1,sourcing,6,sourcing,2
+1f8d8b08a994331e419d24293ce9e7b0,594a9ce6c864e200288e766b,1,sourcing,7,sourcing,4
+1f8d8b08a994331e419d24293ce9e7b0,594a9ce6c864e200288e766b,1,sourcing,7,sourcing,3
+85c7b78e76b5232cd38014ea4cdc8f56,594b1abfa6992500289d6040,1,sourcing,73,sourcing,14
+85c7b78e76b5232cd38014ea4cdc8f56,594b1abfa6992500289d6040,1,sourcing,72,sourcing,14
+85c7b78e76b5232cd38014ea4cdc8f56,594b20ef3f82d10028f03c7c,1,sourcing,2,sourcing,12
+85c7b78e76b5232cd38014ea4cdc8f56,594b20ef3f82d10028f03c7c,1,sourcing,1,sourcing,12
+85c7b78e76b5232cd38014ea4cdc8f56,594b20eb3f82d10028f03c5c,1,sourcing,21,sourcing,9
+85c7b78e76b5232cd38014ea4cdc8f56,594b20ea3f82d10028f03c54,1,sourcing,1,sourcing,6
+8258591d197a3936de0f7ee021ab9e0e,594b06bf6cdeef002881af7b,1,sourcing,3,sourcing,10
+8258591d197a3936de0f7ee021ab9e0e,594b06bf6cdeef002881af7b,1,sourcing,2,sourcing,10
